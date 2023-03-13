@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+}
+
+.App {
+  text-align: center;
+  background: #d6d78d;
+  height: 100vh;
+}
+.add {
+  position: absolute;
+  right: 8vw;
+  top: 12vh;
+}

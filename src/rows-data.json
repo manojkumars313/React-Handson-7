@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Aashish",
+    "age": 24,
+    "course": "MERN",
+    "batch": "June"
+  },
+  {
+    "id": 2,
+    "name": "Ankit",
+    "age": 23,
+    "course": "MERN",
+    "batch": "September"
+  },
+  {
+    "id":3,
+    "name": "Sanjana",
+    "age": 62,
+    "course": "MERN",
+    "batch": "August"
+  },
+  {
+    "id":4,
+    "name": "Rohit",
+    "age": 30,
+    "course": "MERN",
+    "batch": "July"
+  }
+]
